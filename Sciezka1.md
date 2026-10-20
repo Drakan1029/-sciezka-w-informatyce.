@@ -13,4 +13,10 @@
 2. Zamknięcie oczy.
 3. Słuchanie.
 ## Cele na studiach
-...
+=______________________________=
+| Cele         |               |
+| ------------ | ------------- |
+| Nauczyć się: |               |
+| Informatyki  | Matematyki    |
+| UKOS         | WARP          |
+=--------------+---------------=
