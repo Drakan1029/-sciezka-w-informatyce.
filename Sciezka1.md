@@ -9,7 +9,8 @@
 ## O mnie
 ### 🤷‍♂️
 ## Umiejętności
-- ...
-
+1. Oddechanie.
+2. Zamknięcie oczy.
+3. Słuchanie.
 ## Cele na studiach
 ...
