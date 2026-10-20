@@ -7,8 +7,7 @@
 4. 👽
 5. Moje repozytorium **[REPO](https://github.com/Drakan1029/-sciezka-w-informatyce.)**
 ## O mnie
-...
-
+### 🤷‍♂️
 ## Umiejętności
 - ...
 
